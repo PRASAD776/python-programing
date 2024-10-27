@@ -11,7 +11,7 @@
         print(f"the language is{self.language}.The salary is{self.salary}")
 
     @staticmethod
-    def greet():
+    def greet(): 
         print("good morning")
 
 harry=Employee("Harry",130000,"js")
